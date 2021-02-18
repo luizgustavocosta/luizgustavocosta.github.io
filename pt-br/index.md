@@ -1,17 +1,10 @@
-## Welcome to my repo
+## Bem-vindo ao meu repositório
 
 The mostly of repositories are build in Java  
 
 You can use the [editor on GitHub](https://github.com/luizgustavocosta/luizgustavocosta.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-## Em português
-[Click aqui](/pt-br/index.md)
-## En castellano
-[Dale aqui](/es/index.md)
-## For english
-Continue in this page
 
 ### Mainly projects
 
